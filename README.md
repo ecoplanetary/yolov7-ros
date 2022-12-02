@@ -18,7 +18,7 @@ Following ROS packages are required:
 
 First, clone the repo into your catkin workspace and build the package:
 ```
-git clone https://github.com/lukazso/yolov7-ros.git ~/catkin_ws/src/
+git clone https://github.com/ecoplanetary/yolov7-ros.git ~/catkin_ws/src/
 cd ~/catkin_ws
 catkin build yolov7_ros
 ```
